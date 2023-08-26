@@ -1,0 +1,19 @@
+
+I have four milestones.
+
+1. Facial recognition an tracking. (2 weeks)
+- collect 10 image datasets(Hugging face site and so on)
+- Training based on LSTM in python (Deep learning model, test mode)
+2. Depth data processing.(2 weeks)
+- collect large amount of image dataset (hugging face and other dataset site)
+- Training based on LSTM model in python(using this data)
+- Evaluation and fune-tune in python (using BERT-score algorithm)
+- Testing
+3. Design Smart UI.(1 week)
+- Using C# or Jupyter (python)
+- Capture the Video Frames: Use OpenCV to capture video frames from a webcam or any other video source.
+4. Integration with model and GUI app.(3 weeks)
+- Perform Real-Time Facial Recognition: Combine all the above steps to implement real-time facial recognition and tracking
+- Refine and Optimize: Fine-tune the model parameters, adjust the tracking algorithms
+
+To develop this project, I will use the Python(Deep learning, Jupyter) or C#->WPF UI(if you want)
