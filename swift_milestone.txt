@@ -1,0 +1,12 @@
+1. Data Preprocessing
+Develop algorithms to preprocess and clean the datastreams received from the Core Motion framework. Apply necessary filters or transformations to enhance the quality of the data.
+
+2. Data collection and Datastream Integration
+Integrate the Core Motion framework into the project to accept real-time datastreams. Set up appropriate sensors and motion tracking to capture relevant data.
+
+
+3. Pattern Matching Algorithm Design
+Design and implement the algorithms required for matching patterns against the existing datasets. 
+
+4. Real-time Matching and Mapping
+Implement the algorithms for real-time matching and mapping of data patterns. Ensure the matching process can handle the influx of data from the datastreams and provide quick and accurate results.
